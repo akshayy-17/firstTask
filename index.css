@@ -1,0 +1,223 @@
+
+    nav ul li {
+        list-style: none;
+    }
+
+    nav ul {
+        overflow: auto;
+    }
+
+    .navbar {
+        background-color: #483939;
+        margin-top: -16px;
+        
+
+    }
+
+    li {
+        float: left;
+        margin: 20px 12px;
+    }
+
+    li a {
+        padding: 4px 4px;
+        text-decoration: none;
+        font-size: 1.2rem;
+        color: rgb(255, 255, 255);
+    }
+
+
+    li a:hover {
+        color: rgb(230, 63, 63);
+        transition: 0.8s;
+        font-size: 20px;
+    }
+
+    .search input {
+        float: right;
+        width: 150px;
+        height: 19px;
+        margin: 20px 40px 20px 20px;
+        border: 2px solid rgb(4, 4, 206);
+        border-radius: 6px;
+    }
+
+    ul img {
+        width: 28px;
+        height: 28px;
+        float: right;
+        margin: 21px -210px 2px 2px;
+    }
+
+    .bg {
+        position: relative;
+
+    }
+
+    .bg img {
+        margin-top: -16px;
+
+        opacity: 0.7;
+    }
+
+    .mainquote {
+        position: absolute;
+    top: 25%;
+    left: 18%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, cursive;
+    color: rgb(74 60 60 / 66%);
+    }
+
+    .mainq {
+        position: absolute;
+        top: 28%;
+        left: 18%;
+        color: tomato;
+        font-size: 3rem;
+        font-family: 'EB Garamond', serif;
+
+    }
+
+    .lorem {
+        position: absolute;
+        top: 47%;
+        left: 18%;
+        color: rgb(74, 60, 60);
+        font-family: 'Satisfy', cursive;
+        font-size: 1.2rem;
+
+    }
+
+    .btn {
+        position: absolute;
+        top: 60%;
+        left: 18%;
+    }
+
+    .servicebtn:hover {
+        color: rgb(0, 0, 0);
+        transition: 0.8s;
+        font-size: 15px;
+    }
+
+    .coursebtn:hover {
+        color: rgb(0, 0, 0);
+        transition: 0.8s;
+        font-size: 15px;
+    }
+
+    .servicebtn {
+        border: 2px solid double;
+    color: #070808;
+    border-radius: 12px;
+    width: 100%;
+    font-size: 1rem;
+    padding: 6px 10px;
+    cursor: pointer;
+    box-shadow: inset -5px -5px 19px 1px saddlebrown;
+    background-color: transparent;
+}
+
+
+
+    .coursebtn {
+        border: 2px solid double;
+    color: #070808;
+    border-radius: 12px;
+    width: 100%;
+    font-size: 1rem;
+    padding: 6px 10px;
+    cursor: pointer;
+    box-shadow: inset -5px -5px 19px 1px saddlebrown;
+    background-color: transparent;
+}
+
+
+
+    .black {
+        font-family: cursive;
+        padding-top: 10px;
+
+    }
+
+    .quote {
+        text-align: center;
+        margin: auto;
+        justify-content: center;
+        height: 250px;
+
+    }
+
+    body {
+        background-color: rgb(212, 158, 119);
+        margin: 0px;
+    }
+
+    .heart {
+        width: 150px;
+        height: 150px;
+        margin-top: 30px;
+        margin-bottom: -30px;
+    }
+
+    .services{
+        
+     height: 250px;
+
+    }
+
+    .ready {
+        width: 200px;
+        height: 200px;
+        margin-top: 30px;
+        margin-bottom: -30px;
+        margin-left: 50px;
+    }
+
+    .srvcprvdbox{
+        text-align: center;
+        margin-left: 40px;
+        margin-top: 80px;
+    }
+    .courses{
+        
+     height: 250px;
+
+    }
+
+    .course {
+        width: 200px;
+        height: 200px;
+        margin-top: 30px;
+        margin-bottom: -30px;
+        margin-left: 50px;
+    }
+
+    .courscprvdbox{
+        text-align: center;
+        margin-left: 40px;
+        margin-top: 80px;
+    }
+
+.srvcprvd{
+    font-family: 'EB Garamond', serif;
+    font-size: 1.5rem;
+
+}
+.courscprvd{
+    font-family: 'EB Garamond', serif;
+    font-size: 1.5rem;
+}
+
+.lorem2{
+    font-family: math;
+        
+}
+.lorem3{
+    font-family: math;
+        
+}
+footer{
+    text-align: center;
+  
+}
